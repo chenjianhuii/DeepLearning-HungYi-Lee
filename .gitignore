@@ -3,3 +3,5 @@ runs/
 *.csv
 *.txt
 *.pdf
+*.ckpt
+log.txt
